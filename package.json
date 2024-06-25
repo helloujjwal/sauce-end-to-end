@@ -1,0 +1,17 @@
+{
+  "name": "sauce-end-to-end",
+  "version": "1.0.0",
+  "description": "This is automation project in which i am validating the end to end basic work flow of a e-commerce website.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "@types/node": "^20.14.8"
+  }
+}
