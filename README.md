@@ -1,4 +1,4 @@
-# sauce-end-to-end
+# Sauce-end-to-end
 
 End to End testing using:
 
